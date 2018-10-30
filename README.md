@@ -23,6 +23,8 @@ When possible, take a nice screenshot and copy it to graphics/screenshot.png
 
 == COMMENTS - HISTORY
 
+2.3.0 : Version update for Elgg 2.3 (not upgraded yet)
+
 1.12.0 : Updated for Elgg 1.12
 
 0.1 : YYYYmmdd - Initial release
