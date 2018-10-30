@@ -3,9 +3,9 @@
 	<name>Plugin Template</name>
 	<id>plugin_template</id>
 	<author>Florian DANIEL aka Facyla</author>
-	<version>2.3.0</version>
+	<version>3.0.0</version>
 	<blurb>Template for new Elgg plugins</blurb>
-	<description>Use this plugin as a template to kickstart ELgg plugin development</description>
+	<description>Use this plugin as a template to kickstart Elgg plugin development</description>
 	<website>https://facyla.fr/</website>
 	<copyright>Florian DANIEL aka Facyla 2018</copyright>
 	<license>GNU Public License version 2</license>
@@ -20,7 +20,7 @@
 	
 	<requires>
 		<type>elgg_release</type>
-		<version>2.3</version>
+		<version>3.0</version>
 	</requires>
 	
 	<!--
